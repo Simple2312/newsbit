@@ -44,7 +44,7 @@ class MainScreen : AppCompatActivity() {
         // set on-click listener
         button3.setOnClickListener {
             // your code to perform when the user clicks on the ImageView
-            Toast.makeText(this@MainScreen, "wip!!!", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this@MainScreen, "wip!!! Developed at synergy institute of technology BBSR", Toast.LENGTH_SHORT).show()
         }
 
 
